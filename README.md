@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OnlyNov!
 - 👀 I’m interested in Python, Java, C++, C#, Machine learning, Game Development!
-- 🌱 I’m currently learning a lot of things.
 - 📫 How to reach me vity1244@gmail.com
 
 <!---
