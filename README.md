@@ -7,6 +7,8 @@
  <img alignment="left" alt="Python" width="35px"  title="SQL"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
  <img alignment="left" alt="Python" width="35px"  title="C++"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
  <img alignment="left" alt="Python" width="35px"  title="Unreal Engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+ <img alignment="left" alt="Python" width="35px"  title="html5"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
  <h2></h2>
 </p>
 
