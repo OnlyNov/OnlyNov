@@ -1,5 +1,5 @@
 <p> 
-  <h3 align="center">Sup, I'm <i>Viktor</i>!</h3>
+  <h3 align="center">Sup, I'm <i>Vik</i>!</h3>
 </p>
 
 <p align="center"> 
