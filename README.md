@@ -30,9 +30,9 @@
     </ul>
     <h3 align="left">📚 Learning Now: </h3>
     <ul align="left">
-        <li>🔧 FastAPI & REST API best practices</li>
+        <li>🔧 FastAPI & REST API</li>
         <li>☁️ Cloud fundamentals with AWS</li>
-        <li>💻 Frontend basics with React</li>
+        <li>💻 Frontend with React</li>
     </ul>
 </div>
 
