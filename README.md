@@ -20,18 +20,24 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         style="vertical-align: middle;"/> 
     </h4>  
-    <h4 align="left"> Most of my repositories are private 🔒 </h4>
-    <h4 align="left"> Some stuff about me: </h4>
+    <h4 align="left">🔒 Most of my repositories are private</h4>
+    <h4 align="left">🏕️ Some stuff about me: </h4>
     <ul align="left"> 
       <li>🌍 I speak 4 languages </li>
       <li>🎮 Hobbies: Gaming, GameDev, ML, 3dprinting </li>
       <li>💻 Using both Pycharm and VS code </li>
       <li>🟨 Favorite color</li>
     </ul>
+    <h3 align="left">📚 What I’m Learning Now</h3>
+    <ul align="left">
+        <li>🔧 FastAPI & REST API best practices</li>
+        <li>☁️ Cloud fundamentals with AWS</li>
+        <li>💻 Frontend basics with React</li>
+    </ul>
 </div>
 
 <div>
-<div align="center" style="margin: 0px;">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
   <img alt="PostgreSQL" title="PostgreSQL"
       src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
