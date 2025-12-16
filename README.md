@@ -29,30 +29,32 @@
       <li>🟨 Favorite color</li>
     </ul>
 </div>
-      
----
 
-<div align="center"> 
- <img alignment="left" alt="Python" width="35px"
-   title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
- <img alignment="left" alt="PostgreSQL" width="35px"
-   title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
- <img alignment="left" alt="C++" width="35px"
-   title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
- <img alignment="left" alt="Unreal Engine" width="35px"
-   title="Unreal Engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
- <img alignment="left" alt="HTML/CSS" width="35px"
-   title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-</div>
-
+<div>
+<div align="center" style="margin: 0px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img alt="PostgreSQL" title="PostgreSQL"
+      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="FastAPI" title="FastAPI"
+      src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Git" title="Git"
+      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="React" title="React"
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="HTML5" title="HTML5"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" title="CSS3"
+      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<div>
+    
 ---
 
 <div align="center"> 
  <img href="vity1244@gmail.com" alt="mail:vity1244@gmail.com" title="vity1244@gmail.com"
-   src="https://img.shields.io/badge/vity1244%40gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=darken&labelColor=green">
+   src="https://img.shields.io/badge/vity1244%40gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=dark&labelColor=blue">
  <img alt="discord:vik1244" title="vik1244"
    src="https://img.shields.io/badge/vik1244-blue?style=for-the-badge&logo=Discord&logoColor=lightblue&labelColor=blue">
 </p>
 
 <div align="center" /> 
-
+</div>
