@@ -24,7 +24,7 @@
     <h4 align="left"> Some stuff about me: </h4>
     <ul align="left"> 
       <li>🌍 I speak 4 languages </li>
-      <li>🎮 Gaming and Anime are my hobies </li>
+      <li>🎮 Hobies: Gaming, GameDev, ML, 3dprint </li>
       <li>💻 Using both Pycharm and code </li>
       <li>🟨 Favorite color</li>
     </ul>
