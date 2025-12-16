@@ -28,7 +28,7 @@
       <li>💻 Using both Pycharm and VS code </li>
       <li>🟨 Favorite color</li>
     </ul>
-    <h3 align="left">📚 What I’m Learning Now</h3>
+    <h3 align="left">📚 Learning Now: </h3>
     <ul align="left">
         <li>🔧 FastAPI & REST API best practices</li>
         <li>☁️ Cloud fundamentals with AWS</li>
