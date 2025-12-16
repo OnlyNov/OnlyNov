@@ -10,7 +10,7 @@
       <img width="20px" title="PostgreSQL" alt="PostgreSQL"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
         style="vertical-align: middle;" />
-    <h4>
+    <h4 align="left"> I build scalable Backend Applications, APIs, and database-driven applications </h4>
     <h4 align="left"> Currently working towards becoming Full-Stack Developer, focusing on 
       <img width="20px" title="React" alt="React"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
@@ -21,7 +21,6 @@
         style="vertical-align: middle;"/> 
     </h4>  
     <h4 align="left"> Most of my repositories are private 🔒 </h4>
-    <h4 align="left"> I build scalable APIs, backend systems, and database-driven applications </h4>
     <h4 align="left"> Some stuff about me: </h4>
     <ul align="left"> 
       <li>🌍 I speak 4 languages </li>
