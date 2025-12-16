@@ -20,12 +20,13 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         style="vertical-align: middle;"/> 
     </h4>  
-    <h4 align="left"> All my repos are private 🔒 </h4>
+    <h4 align="left"> Most of my repositories are private 🔒 </h4>
+    <h4 align="left"> I build scalable APIs, backend systems, and database-driven applications </h4>
     <h4 align="left"> Some stuff about me: </h4>
     <ul align="left"> 
       <li>🌍 I speak 4 languages </li>
-      <li>🎮 Hobies: Gaming, GameDev, ML, 3dprint </li>
-      <li>💻 Using both Pycharm and code </li>
+      <li>🎮 Hobbies: Gaming, GameDev, ML, 3dprinting </li>
+      <li>💻 Using both Pycharm and VS code </li>
       <li>🟨 Favorite color</li>
     </ul>
 </div>
