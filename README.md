@@ -1,68 +1,62 @@
 <div align="center">
-    <h3 align="left">Hey, I'm <i>Vik</i>👋</h3>
-  </div>
-  <div align="center">
-    <h4 align="left"> I'm a Backend Developer specializing in 
-      <img width="20px" title="Python" alt="Python"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-        style="vertical-align: middle;" />
-           and
-      <img width="20px" title="PostgreSQL" alt="PostgreSQL"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-        style="vertical-align: middle;" />
-    <h4 align="left"> I build scalable Backend Applications, APIs, and database-driven applications </h4>
-    <h4 align="left"> Currently working towards becoming Full-Stack Developer, focusing on 
-      <img width="20px" title="React" alt="React"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-        style="vertical-align: middle;" style="vertical-align: middle;"/>
-      and 
-      <img width="20px" title="AWS" alt="AWS"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-        style="vertical-align: middle;"/> 
-    </h4>  
-    <h4 align="left">🔒 Most of my repositories are private</h4>
-    <h4 align="left">🏕️ Some stuff about me: </h4>
-    <ul align="left"> 
-      <li>🌍 I speak 4 languages </li>
-      <li>🎮 Hobbies: Gaming, GameDev, ML, 3dprinting </li>
-      <li>💻 Using both Pycharm and VS code </li>
-      <li>🟨 Favorite color</li>
-    </ul>
-    <h3 align="left">📚 Learning Now: </h3>
-    <ul align="left">
-        <li>🔧 FastAPI & REST API</li>
-        <li>☁️ Cloud fundamentals with AWS</li>
-        <li>💻 Frontend with React</li>
-    </ul>
+
+# Hey, I'm Vik 👋
+
+**Software Engineer - Python - AI-Native Engineering**
+
+<img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&labelColor=232F3E" alt="AWS Certified Developer – Associate (DVA-C02)" />
+<img src="https://img.shields.io/badge/Anthropic-Certified_Architect-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=191919" alt="Anthropic Certified Architect" />
+
 </div>
 
-<div>
+### What I do
+
+**Backend**
+- Design and build backend services and REST APIs in **Python** with **FastAPI**
+- Model data and write queries on **PostgreSQL** and **SQLite** with **SQLAlchemy**
+- Structure services for maintainability: clear layering, validation with **Pydantic**, auth, error handling
+- Build LLM features with **LangChain** and plot data with **Matplotlib**
+- Test and keep code clean with pytest, linting and type checking
+
+**Cloud**
+- Deploy and run services on **AWS**: serverless (Lambda), containers (Docker), infrastructure as code (CDK)
+- Set up CI/CD pipelines
+
+**AI-native engineering**
+- Run **AI-SDLC workflows**: an agentic loop with its own harness, evals, etc.
+- Use AI agents to plan, implement, test and review code
+
+**Frontend & mobile**
+- Build UIs with **React** and mobile apps with **React Native**
+
+### Currently learning
+
+**Python in depth** · **Machine Learning in depth** · React Native *(side quest)*
+
+### Tech stack
+
+<table align="center">
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Cloud & DevOps</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite&perline=2" alt="Python, FastAPI, PostgreSQL, SQLite" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,ts,js,html,css&perline=3" alt="React, TypeScript, JavaScript, HTML, CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux&perline=2" alt="AWS, GCP, Docker, Linux" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,gitlab,pycharm,vscode,obsidian&perline=3" alt="Git, GitHub, GitLab, PyCharm, VS Code, Obsidian" /></td>
+  </tr>
+</table>
+
+### About me
+
+🌍 4 languages (English, Ukrainian, Croatian, Russian) · 🎮 gaming, game dev, ML, 3D printing · 🟨 favorite color: yellow · 🔒 most repos are private
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img alt="PostgreSQL" title="PostgreSQL"
-      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="FastAPI" title="FastAPI"
-      src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Git" title="Git"
-      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="React" title="React"
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="HTML5" title="HTML5"
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" title="CSS3"
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="AWS" title="AWS"
-      src="https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=Amazon&logoColor=white" />
-<div>
-    
----
 
-<div align="center"> 
- <img href="vity1244@gmail.com" alt="mail:vity1244@gmail.com" title="vity1244@gmail.com"
-   src="https://img.shields.io/badge/vity1244%40gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=dark&labelColor=blue">
- <img alt="discord:vik1244" title="vik1244"
-   src="https://img.shields.io/badge/vik1244-blue?style=for-the-badge&logo=Discord&logoColor=lightblue&labelColor=blue">
-</p>
+<a href="mailto:vity1244@gmail.com"><img src="https://img.shields.io/badge/Gmail-vity1244%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Discord-vik1244-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: vik1244" />
 
-<div align="center" /> 
 </div>
