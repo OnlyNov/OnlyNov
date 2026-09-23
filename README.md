@@ -4,7 +4,7 @@
 
 **Software Engineer - Python - AI-Native Engineering**
 
-<img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&labelColor=232F3E" alt="AWS Certified Developer – Associate (DVA-C02)" />
+<img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-D5E1EF?style=flat-square&labelColor=232F3E" alt="AWS Certified Developer – Associate (DVA-C02)" />
 <img src="https://img.shields.io/badge/Anthropic-Certified_Architect-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=191919" alt="Anthropic Certified Architect" />
 
 </div>
@@ -52,7 +52,7 @@
 
 ### About me
 
-🌍 4 languages (English, Ukrainian, Croatian, Russian) · 🎮 gaming, game dev, ML, 3D printing · 🟨 favorite color: yellow · 🔒 most repos are private
+🌍 4 languages (English, Ukrainian, Croatian, Russian) · 🎮 Hobbies gaming, game dev, ML, 3D printing · 🟨 favorite color: yellow · 🔒 most repos are private
 
 <div align="center">
 
