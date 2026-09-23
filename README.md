@@ -11,23 +11,37 @@
 
 ### What I do
 
-**Backend**
-- Design and build backend services and REST APIs in **Python** with **FastAPI**
-- Model data and write queries on **PostgreSQL** and **SQLite** with **SQLAlchemy**
-- Structure services for maintainability: clear layering, validation with **Pydantic**, auth, error handling
-- Build LLM features with **LangChain** and plot data with **Matplotlib**
-- Test and keep code clean with pytest, linting and type checking
+Most of my work is on the backend and cloud, with occasional frontend, but here's my usual responsibilities:
 
-**Cloud**
-- Deploy and run services on **AWS**: serverless (Lambda), containers (Docker), infrastructure as code (CDK)
-- Set up CI/CD pipelines
-
-**AI-native engineering**
-- Run **AI-SDLC workflows**: an agentic loop with its own harness, evals, etc.
-- Use AI agents to plan, implement, test and review code
-
-**Frontend & mobile**
-- Build UIs with **React** and mobile apps with **React Native**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend</h4>
+      <b>REST APIs and services</b> in Python with FastAPI<br/>
+      <b>Data modeling and queries</b> with SQLAlchemy on PostgreSQL and SQLite<br/>
+      <b>Validation</b> with Pydantic, plus auth and error handling<br/>
+      <b>LLM features</b> with LangChain, <b>plots</b> with Matplotlib<br/>
+      <b>Quality:</b> pytest, linting, type checking
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI-native engineering</h4>
+      <b>AI-SDLC workflows:</b> an agentic loop with its own harness and evals<br/>
+      <b>AI agents</b> that plan, implement, test and review code
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud</h4>
+      <b>AWS:</b> Lambda, Docker containers, CDK infrastructure as code<br/>
+      <b>CI/CD</b> pipelines
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Frontend & mobile</h4>
+      <b>Web UIs</b> with React<br/>
+      <b>Mobile apps</b> with React Native
+    </td>
+  </tr>
+</table>
 
 ### Currently learning
 
