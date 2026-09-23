@@ -4,7 +4,7 @@
 
 **Software Engineer - Python - AI-Native Engineering**
 
-<img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-D5E1EF?style=flat-square&labelColor=232F3E" alt="AWS Certified Developer – Associate (DVA-C02)" />
+<img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-2D68C4?style=flat-square&labelColor=232F3E" alt="AWS Certified Developer – Associate (DVA-C02)" />
 <img src="https://img.shields.io/badge/Anthropic-Certified_Architect-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=191919" alt="Anthropic Certified Architect" />
 
 </div>
