@@ -52,7 +52,7 @@
 
 ### About me
 
-🌍 4 languages (English, Ukrainian, Croatian, Russian) · 🎮 Hobbies gaming, game dev, ML, 3D printing · 🟨 favorite color: yellow · 🔒 most repos are private
+🌍 4 languages (English, Ukrainian, Croatian, Russian) · 🎮 Hobbies: Gaming, Game Dev, ML, 3D Printing, Impulsive Software Development · 🟨 favorite color: yellow · 🔒 most repos are private
 
 <div align="center">
 
