@@ -31,7 +31,7 @@
 
 ### Currently learning
 
-**Python in depth** · **Machine Learning in depth** · React Native *(side quest)*
+**Python in depth** · **Machine Learning in depth** · React Native *(side quest)* · Rust *(maybe_later)*
 
 ### Tech stack
 
